@@ -8,4 +8,4 @@
 
 [A Guide to Using Raw Sockets](https://www.opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/)
 
-[Ping in C] (https://www.geeksforgeeks.org/ping-in-c/)
+[Ping in C](https://www.geeksforgeeks.org/ping-in-c/)
