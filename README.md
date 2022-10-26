@@ -8,4 +8,10 @@
 
 [A Guide to Using Raw Sockets](https://www.opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/)
 
+[RFC 793 vf](http://abcdrfc.free.fr/rfc-vf/rfc0793.html)
+
+[RFC 793 En](https://www.ietf.org/rfc/rfc793.txt)
+
+[RFC 9293](https://www.rfc-editor.org/rfc/rfc9293.html)
+
 [Ping in C](https://www.geeksforgeeks.org/ping-in-c/)
